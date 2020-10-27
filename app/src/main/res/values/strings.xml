@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomeViewExample</string>
+
+    <declare-styleable name="MyCustomView">
+        <attr name="image" format="reference"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>
