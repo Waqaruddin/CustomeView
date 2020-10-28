@@ -4,5 +4,7 @@
     <declare-styleable name="MyCustomView">
         <attr name="image" format="reference"/>
         <attr name="text" format="string"/>
+        <attr name="password" format="string"/>
+        <attr name="checkBox" format="string"/>
     </declare-styleable>
 </resources>
